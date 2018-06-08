@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "org.conman.parsers.ip"
-version = "1.0.1-1"
+version = "1.0.2-1"
 
 -- LuaDist source
 source = {
-  tag = "1.0.1-1",
+  tag = "1.0.2-1",
   url = "git://github.com/LuaDist-testing/org.conman.parsers.ip.git"
 }
 -- Original source
 -- source =
 -- {
---   url = "https://raw.github.com/spc476/LPeg-Parsers/ip-1.0.1/ip.lua"
+--   url = "https://raw.github.com/spc476/LPeg-Parsers/ip-1.0.2/ip.lua"
 -- }
 
 description =
